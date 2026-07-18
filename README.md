@@ -39,5 +39,13 @@ PRODIGY_WD_04/
 - Gained experience in creating structured and visually appealing user interfaces.
 - Improved my ability to organize projects for deployment on GitHub.
 
+  ## Screenshots
+
+### About Section
+![About Section](Screenshot/portfolio.png)
+
+### Achievements Section
+![Achievements Section](Screenshot/portfolio2.png)
+
 ## Author
 **Pranjali Sonone**
